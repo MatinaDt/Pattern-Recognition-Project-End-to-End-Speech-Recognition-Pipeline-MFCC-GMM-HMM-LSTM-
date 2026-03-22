@@ -80,5 +80,3 @@ The system processes raw audio signals, extracts meaningful acoustic features, a
 - pomegranate (HMMs)
 
 ---
-
-## 📁 Project Structure
